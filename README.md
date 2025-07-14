@@ -43,6 +43,6 @@ By analyzing customer behavior, we aim to group similar customers together for t
 
 ## 💡 Key Insights
 
-- Segmented customers into X clusters (replace with actual number)
+- Segmented customers into 3 clusters 
 - Found patterns such as high-spending youth or low-spending elders
 - Useful for targeting promotions
